@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartTravelerCompanion</string>
+    <string name="api_key">replace with your api key here</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

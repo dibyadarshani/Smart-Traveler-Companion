@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079584819231",
+    "project_id": "smarttravelercompanion",
+    "storage_bucket": "smarttravelercompanion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079584819231:android:8da91947c306400a5b6d2a",
+        "android_client_info": {
+          "package_name": "com.example.smarttravelercompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079584819231-54051li8vthov9k5km5eco4f2p5qnv2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm3UPGWWzvo0s_IWLErx0eQjMqE2PcMy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079584819231-54051li8vthov9k5km5eco4f2p5qnv2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
